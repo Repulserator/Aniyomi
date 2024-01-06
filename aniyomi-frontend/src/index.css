@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#footer
+{
+    width: 100%;
+    height: 30px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    /*text-align, background-color, and other specific styles can be applied here. You can change the height from 30px to anything which suits your needs. You can even comment Left: 0px & Right: 0px, but to make sure that it works in all browsers, lets leave them there.*/
+}

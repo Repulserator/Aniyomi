@@ -1,0 +1,41 @@
+body,
+html {
+  padding: 0;
+}
+
+.zin {
+  z-index: 10;
+}
+
+.cardtr {
+  background-position: center;
+  position: relative;
+  padding: 2vh;
+  background-color: rgba(0, 0, 0, 0.55);
+  width: 60vh;
+  height: 40vh;
+  border-radius: 25px;
+  margin-top: 4vh;
+  left: 35%;
+  color: azure;
+}
+
+.ovh {
+  overflow: hidden;
+}
+
+
+.bgcomponent {
+  position: absolute;
+  left: 0%;
+  top: -10%;
+  /* The image used */
+  background-image: url("C:/Users/Kaustubh.000/Desktop/Work/React/aniyomi/src/home.png");
+  /* Full height */
+  height: 110vh;
+  width: 100vw;
+  /* Center and scale the image nicely */
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

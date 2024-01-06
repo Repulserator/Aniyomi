@@ -1,0 +1,57 @@
+
+.vid-img {
+  max-width: 32vh;
+  max-height: 30vh;
+  height: auto;
+  align-items: flex-start;
+}
+
+img {
+  object-fit: contain;
+}
+
+.cardiv {
+  height: 10vh;
+}
+
+
+.card-title {
+  font-size: 1.4vw;
+  word-break: keep-all !important;
+}
+
+.main-card {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin-left: 25px;
+  margin-top: 25px;
+  border-radius: 2px;
+}
+
+.cont {
+  display: flex;
+  align-items: space-between;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+
+.login{
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 60vh;
+    height: 65vh;
+    border-radius: 25px;
+    
+}
+
+.signup{
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 60vh;
+    height: 73vh;
+    border-radius: 25px;
+    margin-top: 4vh;
+    
+}
