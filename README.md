@@ -15,20 +15,11 @@ I undertook this web development project for my bachelor's degree with the expli
 <li>Watch Parties</li>
 <li>Advanced Player</li>
 
-### xyz
+<br></br>
 
-- **Watch Parties:**
-  An innovative feature allowing users to synchronize their anime-watching experience, fostering a sense of shared enjoyment and communal interaction.
+So far i have the basics down. Heres a
 
-- **Multilingual Support:**
-  An inclusive approach with multilingual capabilities, welcoming users from diverse linguistic backgrounds and broadening the accessibility of content.
+### sneakpeek
 
-- **Advanced Player:**
-  A high-quality and feature-rich video player ensuring an immersive viewing experience, with options for customization and optimization.
 
-- **User Profile and Dashboard:**
-  Personalized user profiles and dashboards, providing a tailored experience with features such as history tracking, favorites, and recommendations.
-
-- **Expanded Admin Control:**
-  Comprehensive administrative
 
