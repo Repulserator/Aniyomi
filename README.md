@@ -6,9 +6,27 @@ I undertook this web development project for my bachelor's degree with the expli
 
 
 ### Peek
-![sneak peak pictures ](./pictures/pic1.png)
+![sneak peak pictures ](./pictures/pic1.jpg)
+<br></br>
+Login Page
+\
 ![sneak peak pictures ](./pictures/pic2.png)
+<br></br>
+Repository - Using Mongodb and online hosting services as source
+\
 ![sneak peak pictures ](./pictures/pic3.png)
+![sneak peak pictures ](./pictures/pic4.png)
+<br></br>
+A modern type of player for ease of use
+\
+![sneak peak pictures ](./pictures/pic5.png)
+<br></br>
+Admin Dashboard
+\
+![sneak peak pictures ](./pictures/pic6.png)
+
+
+
 
 
 ### Features to add:
